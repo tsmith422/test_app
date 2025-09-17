@@ -65,3 +65,4 @@ gem 'brakeman'
 gem 'rubocop'
 
 gem "bigdecimal", require: false
+gem "mutex_m", require: false
