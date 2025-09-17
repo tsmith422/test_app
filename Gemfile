@@ -63,3 +63,5 @@ gem 'yaml_db'
 
 gem 'brakeman'
 gem 'rubocop'
+
+gem "bigdecimal", require: false
